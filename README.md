@@ -14,15 +14,11 @@ Description: The Online Store System is designed to help manage customer orders,
 
 **SIA 2**
 **Activity : Project UML Final Project – Title & Design Proposal**
--Boarding House Management System
 
-    The Boarding House Management System is a digital system designed to improve the daily operations of a boarding house. Instead of using paper records and manual tracking, the system centralizes important information such as tenant details, room availability, payments, and maintenance requests into one organized platform.
+-Via Online Store System
 
-    The project was created to solve common problems experienced in manual management, including difficulty tracking unpaid balances, delayed maintenance responses, and confusion in monitoring available rooms. By automating these processes, the system helps the boarding house owner manage operations more efficiently and reduce errors.
+    The Via Online Store System is a UML-based project designed to improve the management of online store operations through digital automation. The system allows customers to view available items and place orders, while the admin can manage inventory, monitor customer orders, and record expenses efficiently. It aims to reduce manual errors, improve organization, and provide real-time monitoring of store activities. The project includes secure admin login and logout functionality, customer record management, and expense tracking to support better business operations and financial monitoring.
 
-    The system has two main users: the Administrator and the Tenant. The Administrator is responsible for managing tenants, assigning rooms, recording payments, handling maintenance concerns, and generating reports. Tenants can use the system to check their payment status and submit repair or maintenance requests.
-
-    The main objective of the project is to provide a faster, more accurate, and organized management process. It also improves communication between the owner and tenants while helping maintain proper records and reports for the boarding house.
 
 **Activity 2: NBA List (Blade Templating)**
 Description: A basketball-inspired web system that displays a list of NBA teams and players. This activity focuses on using Blade templating features such as layout inheritance, dynamic data display from controllers, and navigation from team lists to detailed player or team information pages.
