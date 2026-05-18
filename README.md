@@ -24,15 +24,14 @@ Description: The Online Store System is designed to help manage customer orders,
 
     The main objective of the project is to provide a faster, more accurate, and organized management process. It also improves communication between the owner and tenants while helping maintain proper records and reports for the boarding house.
 
-**Activity 2: Retro Sneaker System (Blade Templating)**
-Description: A custom system featuring a collection of rare sneakers. This activity focuses on Blade layout inheritance (@extends, @yield), passing data from controllers to views, and creating a functional List-to-Detail navigation.
+**Activity 2: NBA List (Blade Templating)**
+Description: A basketball-inspired web system that displays a list of NBA teams and players. This activity focuses on using Blade templating features such as layout inheritance, dynamic data display from controllers, and navigation from team lists to detailed player or team information pages.
 
-**Activity 3: Guitar Inventory System (Full CRUD)**
-Description: A database-driven management system for a guitar shop. This activity implements full Create, Read, Update, and Delete (CRUD) functionality.
-Bonus Features: Includes Request Validation, Search/Filter logic, Pagination, and Image Upload capabilities.
+**Activity 3: Vintage Game Collection (Full CRUD)**
+Description: A database-driven system for managing a collection of vintage video games. This activity implements full CRUD functionality, allowing users to add, view, update, and delete game records. Bonus features include search and filter options, pagination, request validation, and image upload for game covers.
 
-**Activity 4: Music Studio Booking (Form Handling & Validation)**
-Description: A custom input form for booking recording studio sessions. This activity emphasizes secure form handling using CSRF protection and advanced server-side validation with custom error messages.
+**Activity 4: Confession App (Form Handling & Validation)**
+Description: A secure web-based confession platform where users can anonymously submit messages or confessions. This activity emphasizes proper form handling using CSRF protection, input validation, and custom error messages to ensure secure and reliable data submission.
 
 **Activity 5: Integration App (Breeze Auth & APIs)**
 Description: An integrated system using Laravel Breeze for Authentication (Login/Register). It features a custom REST API endpoint (/api/users) and consumes a public API (JSONPlaceholder) to display external data on a secure dashboard.
