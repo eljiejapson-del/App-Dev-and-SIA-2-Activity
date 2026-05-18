@@ -3,7 +3,7 @@ Course & Section: BSIT 3-A
 Subject Name: Application Development / SIA 2
 
 **Description**
-    This repository contains a compilation of laboratory activities developed using the Laravel Framework. It demonstrates progress from basic Blade templating to advanced system integration, including CRUD operations, Form Validation, and API Consumption.
+    This repository showcases a collection of laboratory activities built with the Laravel Framework. It highlights the development journey from fundamental Blade templating concepts to more advanced features such as CRUD functionality, form validation, and API integration.
 
 **APPLICATION DEVELOPMENT**
 **ACTIVITY 1: Emerging Technologies Exploration**
